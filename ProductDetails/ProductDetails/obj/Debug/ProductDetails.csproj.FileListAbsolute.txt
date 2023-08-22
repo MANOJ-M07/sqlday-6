@@ -1,0 +1,8 @@
+D:\simplilearn\Course-2\day-6\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe.config
+D:\simplilearn\Course-2\day-6\ProductDetails\ProductDetails\bin\Debug\ProductDetails.exe
+D:\simplilearn\Course-2\day-6\ProductDetails\ProductDetails\bin\Debug\ProductDetails.pdb
+D:\simplilearn\Course-2\day-6\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csproj.AssemblyReference.cache
+D:\simplilearn\Course-2\day-6\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\Course-2\day-6\ProductDetails\ProductDetails\obj\Debug\ProductDetails.csproj.CoreCompileInputs.cache
+D:\simplilearn\Course-2\day-6\ProductDetails\ProductDetails\obj\Debug\ProductDetails.exe
+D:\simplilearn\Course-2\day-6\ProductDetails\ProductDetails\obj\Debug\ProductDetails.pdb
